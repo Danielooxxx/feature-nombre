@@ -1,0 +1,5 @@
+Practica de Git y GitHub
+
+1. Crear una rama para trabajar de forma aislada.
+2. Realizar cambios pequenos en los archivos.
+3. Guardar cada cambio con un commit descriptivo.
